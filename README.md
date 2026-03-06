@@ -1,7 +1,7 @@
 ## Hi ,I'm Arcan 👋
 
 🎓 Computer Systems Engineering Student
-💻 Aspiring Technologist | Data & Finance Enthusiast | Problem Solver
+💻 Aspiring Technologist | Data & Finance Enthusiast | Problem Solver 
 📍 London, UK
 
 🚀 About Me
@@ -21,6 +21,7 @@ Networking and infrastructure
 Cybersecurity and resilient systems
 
 I enjoy learning by building — whether that's implementing algorithms from scratch, analysing datasets, or configuring networks.
+Checkout my Linkeldn here : https://www.linkedin.com/in/arcan-i-686aa6284/
 
  
 ## 🌐 Socials:
